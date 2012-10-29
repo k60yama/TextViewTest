@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">TextViewTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string-array name="itemType">
+        <item>卵・乳製品・飲料</item>
+        <item>加工品</item>
+        <item>魚介</item>
+        <item>肉類</item>
+        <item>野菜</item>
+        <item>果物</item>
+        <item>その他</item>
+    </string-array>
+    <string name="no">登録No:</string>
+    <string name="itemTypeTitle">種別</string>
+    
+    <string name="itemNameHint">品物名</string>
+    
+    <string name="addButton">追加</string>
+</resources>
