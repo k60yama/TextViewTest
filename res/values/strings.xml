@@ -3,7 +3,7 @@
     <string name="app_name">TextViewTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">表示文字列操作テスト</string>
     
     <string-array name="itemType">
         <item>卵・乳製品・飲料</item>
